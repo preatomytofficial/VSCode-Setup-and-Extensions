@@ -46,7 +46,7 @@ Copy `settings.json` from this repo into your VS Code user settings folder:
 
 ## ⬇️ Downloads
 
-- **VS Code:** [code.visualstudio.com/download](https://code.visualstudio.com/download)
+- **VS Code:** [visualstudio.com/download](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 - **Node.js:** [nodejs.org/en/download](https://nodejs.org/en/download)
 - **Python:** [python.org/downloads](https://www.python.org/downloads/)
 
