@@ -12,16 +12,15 @@ This repo documents my complete VS Code environment so I (or anyone else) can qu
 
 | Extension | Publisher | Purpose |
 |---|---|---|
-| Python | ms-python | Python language support |
-| Pylance | ms-python | Fast, feature-rich Python IntelliSense |
 | Prettier | esbenp | Code formatting |
 | ESLint | dbaeumer | JavaScript/TypeScript linting |
 | GitLens | eamodio | Git supercharged |
+| Live Server | ritwickdey | Local dev server with live reload for HTML/CSS/JS |
 | Material Icon Theme | pkief | File icons |
-| Error Lens | usernamehw | Inline error highlighting |
-| Code Runner | formulahendry | Quick script execution |
-
-> Replace/expand this table with your actual extension list.
+| File & Folder Icons | file-icons | Alternate file/folder icon set |
+| Python | ms-python | Python language support |
+| HTML CSS Support | ecmel | Autocomplete for HTML/CSS |
+| JavaScript and TypeScript Nightly | ms-vscode | Latest JS/TS language features |
 
 ### Install all extensions at once
 
